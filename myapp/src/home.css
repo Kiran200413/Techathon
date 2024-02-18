@@ -1,0 +1,26 @@
+.first-page{
+    margin-top: 11%;
+    
+}
+.second-page{
+    margin-top: 7%;
+}
+.second-box{
+    justify-content: space-between;
+    border: 2px solid #bcdcf8;
+    margin: 1em;
+    
+}
+.third-page{
+    margin-top: 10%;
+}
+.fourth-page{
+   margin-top: 5%;
+   margin-bottom: 10%;
+}
+a{
+    color: blue;
+}
+.explore_btn{
+    margin-left: 400px;
+}

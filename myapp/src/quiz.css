@@ -1,0 +1,24 @@
+.content{
+    margin-left: 5em;
+    font-family: math;
+}
+.content h3{
+    color: rgb(158, 0, 183);
+    
+}
+.quiz__score h2{
+    color: rgb(23, 174, 0);
+    text-align: center;
+    margin-top: 2em;
+    font-size: 60px;
+}
+.quiz__score h3{
+    margin-top: 1em;
+}
+h6{
+    font-family: cursive;
+}
+.quiz{
+    background-color: rgb(255, 255, 255);
+    color: rgb(12, 6, 62);
+}

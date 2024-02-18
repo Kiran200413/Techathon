@@ -1,0 +1,46 @@
+.head
+{
+    
+  height: 200px;
+  background-color: rgb(45, 45, 241);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.form {
+  padding: 10px;
+  width: 70%;
+  min-width: 70%;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 30px;
+}
+
+.connect1{
+  display: flex;
+  justify-content: center;
+}
+
+.connect1{
+  display: flex;
+  justify-content: center;
+}
+
+.contact1 .card{
+  text-align: center;
+  box-shadow: 0 0 4px 4px gray;
+}
+
+.logo{
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.logo:hover{
+  width: 52px;
+  height: 52px;
+  box-shadow: 0 0 3px 2px gray;
+}

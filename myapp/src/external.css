@@ -1,0 +1,95 @@
+
+ /* footer */
+
+ .footer2{
+    background-color: #104cba;
+    color: white;
+ }
+
+ .container2{
+    display: flex;
+    justify-content: space-between;
+    
+
+ }
+
+ .about2,
+ .contact2 {
+   display: inline-block;
+   
+   width: 45%;
+   
+ }
+
+ .copyright2{
+    /* margin: 0; */
+    text-align: center;
+    height: 48px;
+ }
+ .copyright2 a{
+    text-decoration: none;
+    color: white;
+ }
+ .contact2 a{
+    /* text-decoration: none; */
+    color: white;
+ }
+
+/* about us */
+
+.head1{
+    
+    height: 200px;
+    background-color: rgb(115 178 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+    
+} 
+
+.card1{
+    padding-top: 10px;
+
+}
+.card1 .title1{
+    color: red;
+}
+
+.cbody1{
+    text-align: left;
+}
+.about-img{
+    border: 2px solid #96b9e4;
+    border-radius: 50px;
+}
+.profile_img{
+    margin-left: 20em;
+    border:2px solid white;
+    border-radius:50px ;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+.profile_img:hover{
+    margin-left: 20em;
+    /* border:2px solid rgb(255, 165, 165); */
+    height: 40px;
+    width: 40px;
+    
+}
+.nav_component{
+    color: aliceblue;
+    font-size: 16px;
+}
+.nav_component:hover{
+    box-shadow: 0px 10px 10px -5px rgb(255, 255, 255);
+    border-radius: 4px;
+    
+}
+.content1{
+    padding-top: 5em;
+}
+
+.profile-offcanva{
+    background-color: rgb(216, 249, 255);
+}

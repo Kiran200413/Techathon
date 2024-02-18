@@ -1,0 +1,56 @@
+.certificate-container{
+    height: 100vh;
+    border: 15px solid rgb(37, 3, 173);
+    text-align: center;
+}
+
+.certificate-title{
+    margin-top: 2px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    text-shadow: 2px 2px #dad9e3;
+
+}
+.certificate-container p{
+    
+    text-align: center;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+   
+
+}
+.certificate-container h2{
+    
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(17, 44, 180);
+    /* text-shadow: 2px 2px #080808; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    /* text-decoration: 2px underline  rgb(7, 45, 142); */
+
+}
+.text-shadow-example {
+    text-shadow: 2px 2px 4px rgba(227, 129, 129, 0.5);
+  }
+  
+  .p1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .coursename{
+    color: rgb(68, 68, 73);
+    font-size: 20px;
+  }
+  .certificate-container h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    text-shadow: 2px 2px #dad9e3;
+}
+.company{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    margin-top: 1em;
+}
